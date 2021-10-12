@@ -2616,7 +2616,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background: #6e6570;
+			background: #e96f37;
 		}
 
 		input[type="submit"]:active,
